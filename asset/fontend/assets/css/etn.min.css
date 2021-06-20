@@ -1,0 +1,20 @@
+/*  
+---------------------------------------------------------------------------
+                                                      *
+---------------------------------------------------------------------------
+*/
+
+#wpadminbar #wp-admin-bar-ps-exporter-adminbar-execute-conversion .ab-item{
+	display: none;
+	background: #cc3333;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+#wpadminbar #wp-admin-bar-ps-exporter-adminbar-execute-conversion .ab-item:hover{
+	color: #fff;
+}
+
+#wpadminbar #wp-admin-bar-ps-exporter-adminbar-execute-conversion .ab-item.ready{
+	display: block;
+}
